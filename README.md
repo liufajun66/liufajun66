@@ -1,5 +1,5 @@
 - 👋 Hi, I’m liufajun
-- 👀 I’m interested in CSharp、Python、C++
+- 👀 I’m interested in CSharp、C++
 - 🌱 I’m currently learning CSharp、Design Patterns、WPF
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me liufajun@6666gmail.com
